@@ -1,0 +1,6 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$s21__matrix_8h.html#acd185705783880e5cc7c233329b9d7ef" title="Умножает матрицу на число." alt="" coords="155,31,293,57"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#a32320a28583ccc0668464c48f7770b22" title="Проверяет корректность матрицы." alt="" coords="357,5,468,32"/>
+<area shape="rect" id="node4" href="$s21__create__matrix_8c.html#a59fdb6ff4aeb96dc381c8f8986af2bd4" title="Создает новую матрицу с заданными размерами." alt="" coords="341,56,484,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,107,199"/>
+<area shape="rect" id="node2" href="$s21__calc__complements_8c.html#aa58ca5c8b61e817e608e6820b7213195" title="Вычисляет дополнения для заданной матрицы." alt="" coords="155,122,329,149"/>
+<area shape="rect" id="node5" href="$s21__create__matrix_8c.html#a59fdb6ff4aeb96dc381c8f8986af2bd4" title="Создает новую матрицу с заданными размерами." alt="" coords="382,173,525,199"/>
+<area shape="rect" id="node7" href="$s21__matrix_8h.html#aad8337ad12e6dae5bdbbaf1d3b35e140" title="Освобождает память, выделенную для матрицы, и сбрасывает поля структуры." alt="" coords="377,223,529,250"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#ad7cebf1a119845131a53951a2ceb72eb" title="Вычисляет &quot;кофакторную&quot; подматрицу для заданного элемента исходной матрицы." alt="" coords="383,5,524,47"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#a32320a28583ccc0668464c48f7770b22" title="Проверяет корректность матрицы." alt="" coords="577,97,688,123"/>
+<area shape="rect" id="node6" href="$s21__determinant_8c.html#ad1aa328504824fe335a97917c33e41b6" title="Вычисляет определитель квадратной матрицы." alt="" coords="387,71,519,98"/>
+</map>

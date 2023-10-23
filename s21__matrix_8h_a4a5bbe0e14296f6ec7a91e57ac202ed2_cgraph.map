@@ -1,0 +1,5 @@
+<map id="s21_transpose" name="s21_transpose">
+<area shape="rect" id="node1" title="Вычисляет транспонированную матрицу для заданной матрицы." alt="" coords="5,31,121,57"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a32320a28583ccc0668464c48f7770b22" title="Проверяет корректность матрицы." alt="" coords="185,5,296,32"/>
+<area shape="rect" id="node3" href="$s21__create__matrix_8c.html#a59fdb6ff4aeb96dc381c8f8986af2bd4" title="Создает новую матрицу с заданными размерами." alt="" coords="169,56,312,83"/>
+</map>

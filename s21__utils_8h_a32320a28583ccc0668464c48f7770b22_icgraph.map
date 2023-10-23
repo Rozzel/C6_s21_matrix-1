@@ -1,0 +1,22 @@
+<map id="check_matrix" name="check_matrix">
+<area shape="rect" id="node1" title="Проверяет корректность матрицы." alt="" coords="769,309,880,336"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#af7488b6682901bbf322c21226f5f3d77" title="Проверяет корректность двух матриц." alt="" coords="576,101,721,128"/>
+<area shape="rect" id="node9" href="$s21__calc__complements_8c.html#aa58ca5c8b61e817e608e6820b7213195" title="Вычисляет дополнения для заданной матрицы." alt="" coords="353,157,528,184"/>
+<area shape="rect" id="node10" href="$s21__inverse__matrix_8c.html#acf36c0578df2e0b3a9e63fc8ad3b3276" title="Вычисляет обратную матрицу для заданной квадратной матрицы." alt="" coords="155,259,305,285"/>
+<area shape="rect" id="node13" href="$s21__determinant_8c.html#ad1aa328504824fe335a97917c33e41b6" title="Вычисляет определитель квадратной матрицы." alt="" coords="583,240,715,267"/>
+<area shape="rect" id="node15" href="$s21__matrix_8h.html#a9c2c1fd5d9c5e189f0fb2851fd2a1ee3" title="Умножает две матрицы." alt="" coords="583,360,715,387"/>
+<area shape="rect" id="node17" href="$s21__matrix_8h.html#acd185705783880e5cc7c233329b9d7ef" title="Умножает матрицу на число." alt="" coords="579,411,718,437"/>
+<area shape="rect" id="node19" href="$s21__matrix_8h.html#a4a5bbe0e14296f6ec7a91e57ac202ed2" title="Вычисляет транспонированную матрицу для заданной матрицы." alt="" coords="591,461,707,488"/>
+<area shape="rect" id="node3" href="$s21__eq__matrix_8c.html#a63bcd0d51a932d940a62b7356b69bfe7" title="Сравнивает две матрицы на равенство." alt="" coords="381,107,500,133"/>
+<area shape="rect" id="node5" href="$s21__matrix_8h.html#a1942072e4680db31e2854b071b00c3fc" title="Вычисляет разность двух матриц." alt="" coords="378,5,503,32"/>
+<area shape="rect" id="node7" href="$s21__matrix_8h.html#aaa350889d1c45b3b8bb269f9c37e94e7" title="Суммирует две матрицы и сохраняет результат в третьей матрице." alt="" coords="375,56,506,83"/>
+<area shape="rect" id="node4" href="$unittests_8c.html#a5bf760be80af747b1f7917a0b643929d" title=" " alt="" coords="179,107,281,133"/>
+<area shape="rect" id="node6" href="$unittests_8c.html#a338a1d8fb576ef99d4a0cb9ac6b9fc15" title=" " alt="" coords="179,5,281,32"/>
+<area shape="rect" id="node8" href="$unittests_8c.html#aea11d1bc748ece1e7edfac562a1a581f" title=" " alt="" coords="179,56,281,83"/>
+<area shape="rect" id="node12" href="$unittests_8c.html#ad697dd1637806f25c5de2c4e6a601f87" title=" " alt="" coords="179,157,281,184"/>
+<area shape="rect" id="node11" href="$unittests_8c.html#a8773012a6ea8f50c4b0dd09ab74d2e3e" title=" " alt="" coords="5,259,107,285"/>
+<area shape="rect" id="node14" href="$unittests_8c.html#af183cc85a8f2d36acde7a56b68c1ae96" title=" " alt="" coords="390,259,491,285"/>
+<area shape="rect" id="node16" href="$unittests_8c.html#a9f5dc7530bf0520d4a7c289ef1087683" title=" " alt="" coords="390,360,491,387"/>
+<area shape="rect" id="node18" href="$unittests_8c.html#a38e584777c8da64497b351aec5d0609f" title=" " alt="" coords="390,411,491,437"/>
+<area shape="rect" id="node20" href="$unittests_8c.html#a2d0c8894c7059f6a08c0ac476039a37d" title=" " alt="" coords="390,461,491,488"/>
+</map>

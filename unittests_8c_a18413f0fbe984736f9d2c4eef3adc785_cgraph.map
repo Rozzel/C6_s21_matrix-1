@@ -1,0 +1,7 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,107,83"/>
+<area shape="rect" id="node2" href="$s21__create__matrix_8c.html#a59fdb6ff4aeb96dc381c8f8986af2bd4" title="Создает новую матрицу с заданными размерами." alt="" coords="159,5,302,32"/>
+<area shape="rect" id="node3" href="$s21__determinant_8c.html#ad1aa328504824fe335a97917c33e41b6" title="Вычисляет определитель квадратной матрицы." alt="" coords="165,56,297,83"/>
+<area shape="rect" id="node5" href="$s21__matrix_8h.html#aad8337ad12e6dae5bdbbaf1d3b35e140" title="Освобождает память, выделенную для матрицы, и сбрасывает поля структуры." alt="" coords="155,107,307,133"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#a32320a28583ccc0668464c48f7770b22" title="Проверяет корректность матрицы." alt="" coords="355,56,465,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="matrix_size_matches" name="matrix_size_matches">
+<area shape="rect" id="node1" title="Проверяет, совпадают ли размеры двух матриц." alt="" coords="333,56,495,83"/>
+<area shape="rect" id="node2" href="$s21__eq__matrix_8c.html#a63bcd0d51a932d940a62b7356b69bfe7" title="Сравнивает две матрицы на равенство." alt="" coords="161,5,279,32"/>
+<area shape="rect" id="node4" href="$s21__matrix_8h.html#a1942072e4680db31e2854b071b00c3fc" title="Вычисляет разность двух матриц." alt="" coords="157,56,283,83"/>
+<area shape="rect" id="node6" href="$s21__matrix_8h.html#aaa350889d1c45b3b8bb269f9c37e94e7" title="Суммирует две матрицы и сохраняет результат в третьей матрице." alt="" coords="155,107,285,133"/>
+<area shape="rect" id="node3" href="$unittests_8c.html#a5bf760be80af747b1f7917a0b643929d" title=" " alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node5" href="$unittests_8c.html#a338a1d8fb576ef99d4a0cb9ac6b9fc15" title=" " alt="" coords="5,56,107,83"/>
+<area shape="rect" id="node7" href="$unittests_8c.html#aea11d1bc748ece1e7edfac562a1a581f" title=" " alt="" coords="5,107,107,133"/>
+</map>

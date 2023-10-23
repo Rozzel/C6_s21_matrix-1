@@ -1,0 +1,10 @@
+<map id="s21_inverse_matrix" name="s21_inverse_matrix">
+<area shape="rect" id="node1" title="Вычисляет обратную матрицу для заданной квадратной матрицы." alt="" coords="5,199,156,225"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a32320a28583ccc0668464c48f7770b22" title="Проверяет корректность матрицы." alt="" coords="627,224,737,251"/>
+<area shape="rect" id="node3" href="$s21__calc__complements_8c.html#aa58ca5c8b61e817e608e6820b7213195" title="Вычисляет дополнения для заданной матрицы." alt="" coords="204,123,379,149"/>
+<area shape="rect" id="node5" href="$s21__create__matrix_8c.html#a59fdb6ff4aeb96dc381c8f8986af2bd4" title="Создает новую матрицу с заданными размерами." alt="" coords="431,224,574,251"/>
+<area shape="rect" id="node6" href="$s21__determinant_8c.html#ad1aa328504824fe335a97917c33e41b6" title="Вычисляет определитель квадратной матрицы." alt="" coords="437,173,569,200"/>
+<area shape="rect" id="node7" href="$s21__matrix_8h.html#aad8337ad12e6dae5bdbbaf1d3b35e140" title="Освобождает память, выделенную для матрицы, и сбрасывает поля структуры." alt="" coords="427,5,579,32"/>
+<area shape="rect" id="node8" href="$s21__matrix_8h.html#a4a5bbe0e14296f6ec7a91e57ac202ed2" title="Вычисляет транспонированную матрицу для заданной матрицы." alt="" coords="233,275,349,301"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#ad7cebf1a119845131a53951a2ceb72eb" title="Вычисляет &quot;кофакторную&quot; подматрицу для заданного элемента исходной матрицы." alt="" coords="432,57,573,98"/>
+</map>

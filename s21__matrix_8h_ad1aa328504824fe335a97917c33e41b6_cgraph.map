@@ -1,0 +1,4 @@
+<map id="s21_determinant" name="s21_determinant">
+<area shape="rect" id="node1" title="Вычисляет определитель квадратной матрицы." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a32320a28583ccc0668464c48f7770b22" title="Проверяет корректность матрицы." alt="" coords="185,5,296,32"/>
+</map>

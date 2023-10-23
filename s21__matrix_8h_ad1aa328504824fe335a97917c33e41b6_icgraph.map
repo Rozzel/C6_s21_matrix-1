@@ -1,0 +1,8 @@
+<map id="s21_determinant" name="s21_determinant">
+<area shape="rect" id="node1" title="Вычисляет определитель квадратной матрицы." alt="" coords="576,56,708,83"/>
+<area shape="rect" id="node2" href="$s21__calc__complements_8c.html#aa58ca5c8b61e817e608e6820b7213195" title="Вычисляет дополнения для заданной матрицы." alt="" coords="353,56,528,83"/>
+<area shape="rect" id="node3" href="$s21__inverse__matrix_8c.html#acf36c0578df2e0b3a9e63fc8ad3b3276" title="Вычисляет обратную матрицу для заданной квадратной матрицы." alt="" coords="155,5,305,32"/>
+<area shape="rect" id="node6" href="$unittests_8c.html#af183cc85a8f2d36acde7a56b68c1ae96" title=" " alt="" coords="390,107,491,133"/>
+<area shape="rect" id="node5" href="$unittests_8c.html#ad697dd1637806f25c5de2c4e6a601f87" title=" " alt="" coords="179,56,281,83"/>
+<area shape="rect" id="node4" href="$unittests_8c.html#a8773012a6ea8f50c4b0dd09ab74d2e3e" title=" " alt="" coords="5,5,107,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$s21__create__matrix_8c.html#a59fdb6ff4aeb96dc381c8f8986af2bd4" title="Создает новую матрицу с заданными размерами." alt="" coords="159,5,302,32"/>
+<area shape="rect" id="node3" href="$s21__matrix_8h.html#aad8337ad12e6dae5bdbbaf1d3b35e140" title="Освобождает память, выделенную для матрицы, и сбрасывает поля структуры." alt="" coords="155,56,307,83"/>
+</map>
